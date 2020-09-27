@@ -207,3 +207,7 @@ font-weight: 600;
 .dynamic a{
   font-size: 13px;
 }
+.dynamic .moon{
+      background: #122c40;
+    color: #fff;
+}
